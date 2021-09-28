@@ -28,7 +28,6 @@
 	<link href="<?php echo INCLUDE_PATH_PAINEL ?>css/style.css" rel="stylesheet" />
 </head>
 <body>
-
 	<div class="box-login">
 		<?php
 			if(isset($_POST['acao'])){
